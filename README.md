@@ -3,7 +3,7 @@
 <h3 align="center">I'm a computer science student from France passionate about web development.</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b952armor98exyy4r3i8cvvnuwvrqrc77883ylxxg1ks&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
 
-- 🌱 I’m currently learning **React and PHP**
+- 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [https://oceane-jf.fr/](https://oceane-jf.fr/)
 
